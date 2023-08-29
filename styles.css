@@ -2,7 +2,7 @@
 h1,h2{
 	text-align:center;
 }
-*{
+body{
 	background-color:rgb(204, 204, 204);
 }
 .cont-1{
@@ -29,4 +29,5 @@ audio,video{
 	background-color: rgb(255, 255, 255); 
 	padding:10px;
 	border-radius:10px;
+	overflow:hidden;
 }
