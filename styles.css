@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+h1,h2{
+	text-align:center;
+}
+*{
+	background-color:rgb(204, 204, 204);
+}
+.cont-1{
+	border:2px solid black;
+	background-color:white;
+	border-radius:5px;
+}
+li{
+	list-style-type:none;
+}
+a{
+	color:black;
+}
+
+.cont-2{
+
+	align-items:center;
+	border:2px solid black;
+	margin-inline:50px;
+	border-radius:10px;
+}
+audio,video{
+	width:100%;
+}
