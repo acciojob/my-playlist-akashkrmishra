@@ -26,4 +26,7 @@ a{
 }
 audio,video{
 	width:100%;
+	background-color: rgb(255, 255, 255); 
+	padding:10px;
+	border-radius:10px;
 }
